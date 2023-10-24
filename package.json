@@ -21,11 +21,18 @@
     "@ionic/react-router": "^7.0.0",
     "@types/react-router": "^5.1.20",
     "@types/react-router-dom": "^5.3.3",
+    "@zcloak/did": "^2.0.2",
+    "@zcloak/did-resolver": "^2.0.0",
+    "@zcloak/wallet-lib": "^0.0.2",
+    "buffer": "^6.0.3",
+    "events": "^3.3.0",
     "ionicons": "^7.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router": "^5.3.4",
-    "react-router-dom": "^5.3.4"
+    "react-router-dom": "^5.3.4",
+    "util": "^0.12.5",
+    "vite-plugin-node-polyfills": "^0.15.0"
   },
   "devDependencies": {
     "@capacitor/cli": "5.5.0",
@@ -42,6 +49,7 @@
     "jsdom": "^22.1.0",
     "typescript": "^5.1.6",
     "vite": "^4.3.9",
+    "vite-plugin-pwa": "^0.16.5",
     "vitest": "^0.32.2"
   },
   "description": "An Ionic project"
